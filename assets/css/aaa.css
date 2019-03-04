@@ -1,0 +1,88 @@
+.location-20 .store-info {
+  background: #fff;
+  border: 1px solid white;
+  border-bottom: 4px solid #2D96CD;
+  margin: 15px 0; }
+  .location-20 .store-info .store-name {
+    text-transform: uppercase;
+    color: #2D96CD;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 25px 25px 5px 25px; }
+  .location-20 .store-info ul {
+    margin: 10px 25px; }
+    .location-20 .store-info ul li {
+      margin-bottom: 20px; }
+      .location-20 .store-info ul li b {
+        display: block; }
+        .location-20 .store-info ul li b i {
+          float: left;
+          min-height: 30px;
+          margin-right: 5px;
+          margin-top: 2px;
+          width: 14px;
+          text-align: center; }
+  .location-20 .store-info .box-map {
+    width: 100%;
+    margin: 0; }
+    .location-20 .store-info .box-map .map {
+      height: 100%;
+      min-height: 225px; }
+
+@media (min-width: 1200px) {
+  .location-18 .single-location {
+    height: 225px; }
+  .location-18 .map {
+    height: 100%;
+    width: 55%; }
+    .location-18 .map img {
+      height: 100%; }
+  .location-18 .address {
+    width: 45%; }
+  .location-18 address {
+    height: 75px;
+    overflow: hidden; } }
+.mapinhas {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.flex-mapas {
+  display: flex; }
+
+.ul_menu {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+
+/*# sourceMappingURL=aaa.css.map */
+.main-container {
+    background: #efefef !important;
+}
+
+.title-bar:before {
+    content: '';
+    background: #fff;
+    width: 101%;
+    height: 156px;
+    margin-left: 0;
+    position: absolute;
+    left: -50%;
+}
+
+.wrap-img-car .active {
+    display: block !important;
+    width: 100%;
+}
+
+.descricao_carro{
+    font-size: 28px;
+}
+
+.footer-links li a {
+  color: #7d7d7d;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+ 

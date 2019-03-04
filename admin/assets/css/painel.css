@@ -1,0 +1,69 @@
+.nav.time_line {
+  background: #581a1a;
+  height: 30px; }
+  .nav.time_line ul {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    align-items: center;
+    height: 100%; }
+    .nav.time_line ul * {
+      color: #fff;
+      width: 14%;
+      display: flex;
+      justify-content: space-around; }
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center; }
+
+.details {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  flex-direction: column;
+  height: 100%;
+  color: #fff; }
+
+.listas {
+  margin-top: 2%;
+  color: #4a4a4a; }
+  .listas a {
+    width: auto;
+    height: auto;
+    margin: 0; }
+
+h1, h2, h4 {
+  color: #4a4a4a; }
+
+.mensagem_admin {
+  height: 82vh; }
+
+.fora_icones_contato {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .fora_icones_contato .icones_redes {
+    width: 115px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid;
+    margin: 1%;
+    border-radius: 50%;
+    height: 115px;
+    outline: none; }
+    .fora_icones_contato .icones_redes a {
+      width: auto;
+      height: auto; }
+
+.espac_quadrads {
+  margin: 10px 2% !important; }
+
+.home_nova {
+  justify-content: flex-start; }
+
+/*# sourceMappingURL=painel.css.map */

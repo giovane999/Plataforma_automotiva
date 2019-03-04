@@ -1,0 +1,70 @@
+@import "var.scss" ; //importa variaveis
+
+
+@media (max-width:767px)  {
+
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     position: fixed;
+}
+
+.time_line{
+	height: 40px !important;
+	
+	ul{
+		display: flex;
+    	justify-content: space-around !important;
+	}
+}
+
+.tamanhos {
+    display: block;
+    margin: 10% auto;
+    height: auto;
+
+	.quadrados_pizzas{
+		width: 100%;
+	}
+
+	.quadrados_pizzas {
+	    margin: 10% auto;
+	}
+}
+
+.cardapio_fora {
+    margin: 10% auto;
+    height: 100vh;
+
+	.cardapio_quadrados {
+	    width: 50%;
+	    border: 1px solid #fff;
+	}
+}
+
+
+.cardapio_refri{
+    margin: 40% auto 0;
+
+	.refri{
+		margin: 25% auto !important;
+
+		img{
+			margin: -256px auto 0;
+		}
+	}
+
+
+}
+.hidden {
+	@include hidden();
+}
+
+
+.foter_admin {
+	@include hidden();
+}
+
+
+}/* fecha media */

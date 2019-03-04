@@ -1,0 +1,77 @@
+.location-20 .store-info {
+	background: #fff;
+  border: 1px solid white;
+  border-bottom: 4px solid #2D96CD;
+  margin: 15px 0;
+  .store-name {
+    text-transform: uppercase;
+    color: #2D96CD;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 25px 25px 5px 25px;
+  }
+  ul {
+    margin: 10px 25px;
+    li {
+      margin-bottom: 20px;
+      b {
+        display: block;
+        i {
+          float: left;
+          min-height: 30px;
+          margin-right: 5px;
+          margin-top: 2px;
+          width: 14px;
+          text-align: center;
+        }
+      }
+    }
+  }
+  .box-map {
+    width: 100%;
+    margin: 0;
+    .map {
+      height: 100%;
+      min-height: 225px;
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  .location-18 {
+    .single-location {
+      height: 225px;
+    }
+    .map {
+      height: 100%;
+      width: 55%;
+      img {
+        height: 100%;
+      }
+    }
+    .address {
+      width: 45%;
+    }
+    address {
+      height: 75px;
+      overflow: hidden;
+    }
+  }
+}
+
+.mapinhas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-mapas{
+	display: flex
+}
+
+.ul_menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

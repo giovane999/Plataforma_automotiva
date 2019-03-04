@@ -1,0 +1,177 @@
+.login2 {
+  padding-top: 84px;
+  width: 100%;
+  height: 80vh; }
+  .login2 input {
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial; }
+  .login2 ::-webkit-input-placeholder {
+    color: #afafaf; }
+  .login2 :-moz-placeholder {
+    /* Firefox 18- */
+    color: #afafaf; }
+  .login2 ::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #afafaf; }
+  .login2 :-ms-input-placeholder {
+    color: #afafaf; }
+  .login2 .login_wrapper {
+    margin: 0 auto; }
+    .login2 .login_wrapper .login_limiter {
+      margin: 0 auto;
+      text-align: center;
+      color: #afafaf;
+      max-width: 300px;
+      font-size: .9em; }
+    .login2 .login_wrapper .login_limiter {
+      margin: 0 auto;
+      text-align: center;
+      color: #afafaf;
+      max-width: 300px;
+      font-size: .9em; }
+    .login2 .login_wrapper .login_limiter_cadastro {
+      margin: 0 auto;
+      text-align: center;
+      color: #afafaf;
+      max-width: 720px;
+      font-size: .9em; }
+    .login2 .login_wrapper .login_group {
+      position: relative;
+      margin: 18px; }
+  .login2 .login_group .login_input {
+    width: 100%;
+    padding: 12px 18px 12px 48px;
+    height: 46px;
+    line-height: 1.428571429;
+    background: rgba(255, 255, 255, 0.3);
+    border: 2px solid #afafaf;
+    border-radius: 24px;
+    outline: none;
+    font-family: inherit;
+    font-size: 1.2em;
+    font-weight: 600px;
+    color: #afafaf;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color .15s ease-in-out,background .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,background .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,background .15s ease-in-out;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,background .15s ease-in-out,-webkit-box-shadow .15s ease-in-out; }
+
+.login {
+  padding-top: 84px;
+  padding-left: 12px;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(https://autocarro.com.br/admrev/web/img/bg-desktop.jpg); }
+  .login input {
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial; }
+  .login ::-webkit-input-placeholder {
+    color: #fff; }
+  .login :-moz-placeholder {
+    /* Firefox 18- */
+    color: #fff; }
+  .login ::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #fff; }
+  .login :-ms-input-placeholder {
+    color: #fff; }
+  .login .login_wrapper {
+    margin: 0 auto; }
+    .login .login_wrapper h1 {
+      margin: 0 0 36px;
+      font-size: 16px;
+      color: #fff; }
+    .login .login_wrapper .login_limiter {
+      margin: 0 auto;
+      text-align: center;
+      color: #fff;
+      max-width: 300px;
+      font-size: .9em; }
+    .login .login_wrapper .login_limiter {
+      margin: 0 auto;
+      text-align: center;
+      color: #fff;
+      max-width: 300px;
+      font-size: .9em; }
+    .login .login_wrapper .login_limiter_cadastro {
+      margin: 0 auto;
+      text-align: center;
+      color: #fff;
+      max-width: 720px;
+      font-size: .9em; }
+    .login .login_wrapper .login_group {
+      position: relative;
+      margin: 18px; }
+
+.login_group .login_input, .login_group .login_submit {
+  width: 100%;
+  padding: 12px 18px 12px 48px;
+  height: 46px;
+  line-height: 1.428571429;
+  background: rgba(255, 255, 255, 0.3);
+  border: 2px solid #fff;
+  border-radius: 24px;
+  outline: none;
+  font-family: inherit;
+  font-size: 1.2em;
+  font-weight: 600px;
+  color: #fff;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color .15s ease-in-out,background .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+  transition: border-color .15s ease-in-out,background .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,background .15s ease-in-out;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,background .15s ease-in-out,-webkit-box-shadow .15s ease-in-out; }
+
+.login_group svg {
+  position: absolute;
+  top: 15px;
+  left: 18px;
+  width: 16px;
+  height: 16px;
+  fill: #fff !important; }
+.login_group .login_p a {
+  color: #ff9b00;
+  font-weight: 600;
+  text-decoration: none; }
+.login_group .login_submit {
+  padding: 8px 18px;
+  background: rgba(0, 122, 248, 0.7);
+  border: 2px solid #007af8;
+  -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  font-size: 1.1em; }
+
+.foter_admin {
+  text-align: center;
+  color: #fff;
+  position: fixed;
+  bottom: 0; }
+
+.nav .time_line ul {
+  margin-bottom: 26px !important; }
+
+.actived_menuzin {
+  display: block !important; }
+
+/*# sourceMappingURL=login.css.map */

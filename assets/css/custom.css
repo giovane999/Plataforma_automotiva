@@ -1,0 +1,1647 @@
+@charset "UTF-8";
+.carousel .owl-prev {
+  background: url(../images/left-arrow-angle.png) no-repeat left top;
+  width: 10px;
+  height: 15px;
+  line-height: 12px;
+  padding: 0 !important;
+  display: block;
+  margin-top: -6px;
+  top: 50%;
+  position: absolute; }
+.carousel .owl-next {
+  background: url(../images/rigth-arrow-angle.png) no-repeat left top;
+  width: 10px;
+  height: 115px;
+  line-height: 12px;
+  padding: 0 !important;
+  display: block;
+  margin-top: -6px;
+  top: 50%;
+  position: absolute; }
+
+.owl-theme .owl-buttons div.owl-prev {
+  left: 18px;
+  z-index: 9999; }
+
+.navigation li:first-child {
+  margin-left: 0px; }
+
+.accessories-box p {
+  color: #565454;
+  font-size: 13px;
+  line-height: 21px; }
+
+.services-box p, .services-box li {
+  color: #565454;
+  font-size: 13px;
+  line-height: 21px; }
+
+.accessories-box p {
+  margin: 0 0 30px 0; }
+
+.location-box p, .contact-us p {
+  color: #565454; }
+
+.fillform h3 {
+  background: url(../img/icon-form.jpg) no-repeat left top white;
+  line-height: 72px;
+  padding-left: 92px;
+  color: #232323;
+  font-size: 21px;
+  text-transform: uppercase;
+  font-weight: 800; }
+  .fillform h3.two {
+    line-height: 24px;
+    padding-top: 5px; }
+.fillform form {
+  padding: 13px 20px 20px 20px; }
+.fillform .name {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_name.png) no-repeat right center #efefef; }
+
+.newsletter .name {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_name.png) no-repeat right center #efefef; }
+
+.fillform .email, .newsletter .email {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_mail.png) no-repeat right center #efefef; }
+
+.fillform .phone {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_phone.png) no-repeat right center #efefef; }
+.fillform .input-map {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_map.png) no-repeat right center #efefef; }
+.fillform .input-location {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_location.png) no-repeat right center #efefef; }
+.fillform .input-car {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_car.png) no-repeat right center #efefef; }
+.fillform .input-services {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/ico_input_services.png) no-repeat right center #efefef; }
+
+/*     width: 100%;
+height: 34px;
+padding: 6px 12px;
+background-color: #fff;
+border: 1px solid #ccc;
+border-radius: 4px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
+} */
+.hero-slider li {
+  min-height: 500px; }
+
+.logo {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/bg_logo.png) right top no-repeat;
+  width: 348px;
+  padding: 23px 0 24px;
+  float: left; }
+
+.form-control:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6); }
+.form-control::-moz-placeholder {
+  color: #999;
+  opacity: 1; }
+.form-control:-ms-input-placeholder, .form-control::-webkit-input-placeholder {
+  color: #999; }
+
+.form-control1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-overflow: "";
+  color: #9D9999;
+  padding: 0px 0px 0px 20px; }
+
+textarea.form-control {
+  background: #efefef; }
+
+.btn-submit {
+  background: #FFCC33;
+  border: none;
+  width: 100%;
+  height: 48px;
+  line-height: 48px;
+  display: block;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  position: relative;
+  cursor: pointer;
+  -moz-transition: all 0.6s ease;
+  -webkit-transition: all 0.6s ease;
+  -ms-transition: all 0.6s ease;
+  -o-transition: all 0.6s ease;
+  transition: all 0.6s ease; }
+
+.navigation .car-list li:first-child, .navigation .car-list li:nth-child(5n + 5) {
+  margin-left: 45px; }
+
+.store-footer {
+  background: black;
+  padding-left: 45px; }
+
+.main-container {
+  background: white; }
+
+.main-container-home {
+  background: #efefef !important; }
+
+.store-desc {
+  line-height: 34px; }
+
+.location-info h4:first-child {
+  border-top: 1px solid black;
+  padding-top: 15px; }
+
+.jfilestyle {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  border-collapse: separate;
+  width: 100%; }
+
+div.jfilestyle input {
+  border: 1px solid silver;
+  background: #d9d9d9;
+  margin: 0 -5px 0 0;
+  border-radius: 4px;
+  color: #8d8d8d;
+  cursor: default; }
+
+.jfilestyle input[type="text"] {
+  height: 44px;
+  background-color: #efefef;
+  box-shadow: none;
+  border: none;
+  margin-bottom: 12px;
+  padding-left: 15px;
+  width: 70% !important;
+  border-radius: 0px !important;
+  font-size: 11px; }
+
+.focus-jfilestyle {
+  height: 44px !important;
+  padding: 8px 0px 11px 0px;
+  color: #fff;
+  font-weight: 600; }
+
+div.jfilestyle label {
+  display: inline-block;
+  background: #0097d0;
+  padding: 16px 0px !important;
+  color: #FFFFFF !important;
+  vertical-align: middle;
+  text-align: center;
+  margin: 0;
+  font-size: 12px;
+  width: 31%;
+  font-weight: normal;
+  margin-top: -3px !important; }
+
+.vendas {
+  font-size: 14px;
+  line-height: 1.7; }
+  .vendas h1 {
+    font-size: 17px;
+    font-weight: 800;
+    line-height: 1.7;
+    color: #565454; }
+
+.services-box p {
+  font-size: 12px;
+  line-height: 21px;
+  color: #565454; }
+
+.vendas h2 {
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1.7;
+  color: #565454; }
+
+.bloco-carro-seminovo {
+  margin-bottom: 15px;
+  cursor: pointer; }
+
+.tab-nav-semi {
+  width: 100%; }
+
+.tab-content2 {
+  color: rgba(128, 128, 128, 0.88);
+  float: left;
+  margin: 25px 0;
+  line-height: 22px; }
+
+#tab12 li {
+  list-style: initial;
+  margin-left: 20px; }
+
+.version-default label {
+  text-align: center; }
+.version-default span {
+  width: 100%;
+  float: left;
+  color: #FFCC33;
+  font-size: 20px;
+  font-family: sans-serif; }
+
+.version-car {
+  font-size: 33px;
+  font-family: sans-serif; }
+
+.version_list .version_item {
+  display: inline-block;
+  vertical-align: middle; }
+  .version_list .version_item label {
+    cursor: pointer;
+    margin: 0;
+    padding: 0; }
+  .version_list .version_item input {
+    display: none; }
+  .version_list .version_item i {
+    display: inline-block;
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #bcbcbc;
+    border-radius: 12px;
+    background: linear-gradient(#fdfdfd, #e4e4e4);
+    background: -webkit-linear-gradient(#fdfdfd, #e4e4e4);
+    background: -moz-linear-gradient(#fdfdfd, #e4e4e4);
+    background: -ms-linear-gradient(#fdfdfd, #e4e4e4);
+    background: -o-linear-gradient(#fdfdfd, #e4e4e4);
+    margin-top: 10px; }
+    .version_list .version_item i::before {
+      content: "";
+      display: block;
+      width: 10px;
+      height: 10px;
+      margin: 2px;
+      border-radius: 7px;
+      background: #666;
+      transition: .3s;
+      opacity: 0; }
+  .version_list .version_item :checked + i::before {
+    opacity: 1; }
+
+.feature_list {
+  margin: 35px 0 0;
+  width: 100%; }
+  .feature_list > .title .feature_title .title_item {
+    margin: 0 0 11px;
+    color: #FFCC33;
+    font-size: 20px;
+    font-family: sans-serif; }
+  .feature_list .feature {
+    height: 27px; }
+  .feature_list > * ul {
+    border-top: 1px solid #ddd;
+    margin: 0;
+    padding: 10px 0;
+    text-align: left; }
+    .feature_list > * ul:first-of-type {
+      border-top: 0px; }
+    .feature_list > * ul li {
+      width: 25%;
+      display: inline-block;
+      vertical-align: middle; }
+  .feature_list > .title .feature_title .title_item {
+    text-align: center; }
+    .feature_list > .title .feature_title .title_item:first-of-type {
+      margin: 0 0 30px 20%; }
+  .feature_list .feature_item .feature_value .value_item {
+    font-size: 13px;
+    color: #333;
+    text-align: center;
+    font-weight: normal;
+    height: auto;
+    line-height: 20px;
+    padding: 10px 0 0 0; }
+    .feature_list .feature_item .feature_value .value_item.title {
+      text-align: left;
+      color: #000000 !important;
+      text-transform: uppercase;
+      width: 20%;
+      padding: 10px;
+      font-weight: bold; }
+
+.feature-list-mobile, .models-open-mobile {
+  display: none; }
+
+.feature-list-mobile li {
+  border-bottom: 1px solid #ccc;
+  height: auto;
+  list-style-type: none;
+  padding: 10px 0 10px 0;
+  text-align: center; }
+  .feature-list-mobile li strong {
+    text-transform: uppercase; }
+.feature-list-mobile .model-name {
+  line-height: 50px;
+  color: #3661a4; }
+
+.title-cat {
+  border: 1px solid #FFCC33;
+  padding: 11px;
+  text-align: center;
+  font-size: 18px;
+  float: left; }
+  .title-cat a {
+    color: #FFCC33;
+    font-family: sans-serif; }
+  .title-cat.active {
+    background: #FFCC33; }
+    .title-cat.active a {
+      color: white; }
+
+.location-info.clearfix {
+  min-height: 175px; }
+
+.lojas-footer {
+  min-height: 161px; }
+
+.feature_list_title {
+  float: left;
+  margin-bottom: 27px;
+  width: 100%; }
+
+.tab-nav li a {
+  font-size: 13px; }
+
+.contact-deatils {
+  color: #fff;
+  padding-top: 40px;
+  padding-bottom: 86px; }
+
+.colorMostruario {
+  display: inline-block;
+  margin: 10px; }
+  .colorMostruario a {
+    width: 35px;
+    height: 35px;
+    display: block;
+    border: 1px solid #DCDCDC;
+    border-radius: 50%;
+    cursor: pointer; }
+
+.wrap-img-car.img {
+  min-height: 440px; }
+.wrap-img-car .active {
+  display: block !important; }
+
+.tira {
+  display: none; }
+
+.carNames {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top; }
+
+.imgs-interna {
+  width: 100%;
+  background: #fff;
+  margin: 0 0 20px 0; }
+
+.footer-links h5 {
+  margin-bottom: 10px; }
+
+.imgb-caminhao {
+  margin: 30px 0 0 0; }
+
+.flexslider .slides > li, .hero-slider li {
+  background-position: 40% top !important; }
+
+.services-column {
+  min-height: 137px; }
+  .services-column .imgb {
+    padding: 10px 0px 10px 15px;
+    margin-bottom: 0; }
+  .services-column .txtb {
+    padding: 15px 15px 5px 15px; }
+
+.promotions-blocks img {
+  margin-bottom: 20px; }
+
+.served_areas-blocks div {
+  margin-top: 40px; }
+  .served_areas-blocks div li {
+    list-style: initial;
+    color: #2d96cd;
+    margin-bottom: 15px; }
+.served_areas-blocks li span {
+  color: #333; }
+
+.phone-section a.buscaTelefone {
+  color: #000 !important;
+  font-size: 10px; }
+
+.inputFile span.fake-input {
+  padding: 15px;
+  float: left; }
+.inputFile span.btn.btn-default.btn-anex {
+  float: right;
+  padding: 12px;
+  border-radius: 0px; }
+.inputFile label {
+  width: 100%;
+  padding: 5px;
+  background: #efefef; }
+
+.hero-caption {
+  display: none; }
+
+.footer-links .links-col2 ul {
+  width: 92% !important; }
+  .footer-links .links-col2 ul li {
+    line-height: 16px !important;
+    margin-bottom: 10px !important; }
+
+.form-control.select {
+  background: #efefef;
+  color: #999999; }
+
+.modal-home {
+  width: 700px !important; }
+
+h1.h1-seo {
+  margin-bottom: 10px;
+  color: gray;
+  font-weight: 100;
+  margin-top: 25px; }
+
+span.span-seo {
+  color: #333;
+  line-height: 1.9 !important;
+  margin-top: 20px;
+  display: block;
+  clear: both;
+  position: relative; }
+
+.header-bottom, .header-top {
+  background: #FFCC33; }
+
+.header-links {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/bg_header_links.png) left top no-repeat #BEBEBE;
+  width: 510px;
+  padding-left: 37px;
+  float: right; }
+
+.top-links:before {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/bg_header_links.png) -7px -5px no-repeat #fff;
+  width: 26px;
+  height: 42px;
+  display: block;
+  position: absolute;
+  left: 0; }
+
+.featured-col {
+  border: 3px solid #FFCC33; }
+  .featured-col h3 strong {
+    color: #FFCC33; }
+
+.btn-more {
+  border: 1px solid #FFCC33; }
+  .btn-more:hover {
+    background: #FFCC33; }
+
+.car-banner2 .caption h3 strong, .contact-deatils h6, .footer-links h5 {
+  color: #FFCC33; }
+
+.tab-nav2 li a {
+  border: 2px solid #FFCC33; }
+.tab-nav2 li.active a, .tab-nav2 li:hover a {
+  background: #FFCC33; }
+
+.form-control, .textarea {
+  color: #333; }
+
+.btn-offer:hover {
+  background: #FFCC33; }
+
+.car-list-col .txtb .price {
+  color: #FFCC33; }
+
+.tab-nav li a:hover, .tab-nav li.active a {
+  border-bottom: 2px solid #6D081F; }
+
+.navigation li a {
+  color: #000; }
+
+.about-column h3:after {
+  content: " ";
+  background: #FFCC33;
+  width: 34px;
+  height: 4px;
+  display: block;
+  margin: 26px auto 0; }
+
+.services-column {
+  border: 2px solid #6D081F; }
+  .services-column .imgb {
+    background: #6D081F; }
+
+.location-info h4 {
+  color: #6D081F;
+  color: #FFCC33; }
+
+.fillform.inte h3 {
+  margin-top: 0px; }
+.fillform h3.two.tit {
+  line-height: 35px; }
+  .fillform h3.two.tit.seg {
+    line-height: 64px; }
+
+.tab {
+  border-bottom: 7px solid #6D081F; }
+
+.car-banner {
+  background: url(../images/bg_car_banner.png) left top no-repeat; }
+
+.car-banner2 {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/banner-2.jpg) left top no-repeat; }
+
+.col-ul {
+  column-count: 2;
+  font-size: 12px; }
+
+.navigation li {
+  line-height: 58px;
+  margin-left: 35px;
+  float: left; }
+
+.consorcio-1 .single-consortium {
+  margin-bottom: 30px;
+  border: 1px solid #cbcbcb;
+  border-bottom: 3px solid #00336f;
+  min-height: 420px;
+  background: #fff; }
+  .consorcio-1 .single-consortium .info {
+    background-color: #fff;
+    border-top: 1px solid #cbcbcb;
+    padding: 25px 10px;
+    text-transform: uppercase;
+    text-align: center; }
+    .consorcio-1 .single-consortium .info .top {
+      margin-bottom: 10px; }
+  .consorcio-1 .single-consortium a {
+    display: block;
+    font-size: 0.8em;
+    overflow: hidden; }
+  .consorcio-1 .single-consortium h3 {
+    font-size: 1.5em;
+    margin: 0 0 3px;
+    position: relative; }
+  .consorcio-1 .single-consortium small {
+    font-size: 0.9em;
+    display: block;
+    color: #666666; }
+  .consorcio-1 .single-consortium .info .item {
+    margin-bottom: 15px; }
+  .consorcio-1 .single-consortium .pagamento {
+    margin: 0px;
+    text-transform: capitalize;
+    font-size: 0.95em;
+    color: #666666;
+    /* display: block; */
+    font-style: italic;
+    line-height: 25px; }
+  .consorcio-1 .single-consortium .valor {
+    /*display: block;*/
+    font-size: 1.9em;
+    font-weight: 700;
+    color: #aaa; }
+  .consorcio-1 .single-consortium .info .item ul {
+    -moz-column-count: 2;
+    -moz-column-gap: 0;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 0;
+    column-count: 2;
+    column-gap: 0; }
+  .consorcio-1 .single-consortium .btn-fill-large-radius {
+    width: initial; }
+  .consorcio-1 .single-consortium a {
+    display: block;
+    font-size: 0.8em;
+    overflow: hidden; }
+    .consorcio-1 .single-consortium a.min-h {
+      background: #fff;
+      min-height: 200px; }
+  .consorcio-1 .single-consortium img {
+    width: 100%;
+    transition: 400ms ease;
+    transform: translate3d(0, 0, 0);
+    position: relative; }
+  .consorcio-1 .single-consortium a:hover {
+    text-decoration: none; }
+.consorcio-1 .btn-fill-large-radius:hover {
+  background-color: #B31455; }
+
+.btn-fill-large-radius {
+  border-radius: 5px;
+  padding: 10px 0;
+  text-transform: uppercase; }
+  .btn-fill-large-radius.corb {
+    background: #1f1f1f;
+    color: #fff;
+    text-align: center; }
+
+input#parcelas, input#carta, input#plano {
+  background: #CDC9C9; }
+
+.mt {
+  text-align: center; }
+
+.ultab {
+  margin-bottom: 34px; }
+  .ultab li {
+    margin: 0;
+    padding: 0; }
+
+.atab {
+  background: #fff;
+  padding: 13px; }
+
+li a.atab:hover, li.active a.atab {
+  background: #FFCC33;
+  color: #fff; }
+
+.imgtab {
+  margin-bottom: 20px; }
+
+.tab-content-link {
+  color: #565454; }
+
+h3.h3tab {
+  margin-bottom: 15px;
+  margin-top: 30px;
+  font-size: 18px; }
+
+p.ptab {
+  line-height: 21px; }
+
+ul.ultab li {
+  font-size: 12px;
+  padding-left: 20px;
+  line-height: 21px; }
+
+.bloco-carro-seminovo .car-list-col.clearfix.divh {
+  min-height: 290px !important; }
+
+.produtos-pecas {
+  margin: 0 0 20px 0; }
+
+.icone-watt {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/icone-watt-black.png) center bottom no-repeat;
+  width: 26px;
+  height: 30px;
+  position: absolute;
+  background-size: 100%;
+  top: 10px; }
+
+.header-links li {
+  position: relative; }
+
+.header .phone-section {
+  width: 240px;
+  color: #000; }
+
+.car-list li strong {
+  line-height: 15px; }
+
+.header-links li:first-child a {
+  font-size: 13px;
+  color: #000; }
+.header-links li a {
+  color: #000;
+  font-size: 14px; }
+
+.header .phone-section span, .phone-section a.buscaTelefone {
+  font-size: 15px; }
+
+.fillform.promo h3.two.tit {
+  line-height: 55px; }
+
+.home .fillform.promo h3 strong {
+  display: inline-block;
+  padding-right: 10px; }
+
+.consorcio-1 .single-consortium .info .top.promo {
+  margin-bottom: 35px; }
+.consorcio-1 .single-consortium h3.promo {
+  font-size: 1.3em;
+  margin: 0 0 3px;
+  position: relative; }
+.consorcio-1 .single-consortium small.promo {
+  font-size: 0.8em;
+  display: block;
+  color: #666666; }
+.consorcio-1 .single-consortium .pagamento.promo {
+  margin: 0px;
+  text-transform: capitalize;
+  font-size: 1.1em;
+  color: #666666;
+  display: block; }
+
+.car-banner {
+  display: none; }
+
+.home .fillform h3 strong {
+  display: inline-block;
+  padding-right: 20px; }
+
+/* paragrafo global */
+.content-box p, .services-box p, p.ptab {
+  line-height: 22px;
+  margin-bottom: 20px;
+  color: #868686;
+  font-size: 16px; }
+
+ul.ultab li, .services-box li {
+  line-height: 22px;
+  margin-bottom: 0;
+  color: #868686;
+  font-size: 14px;
+  margin: 20px 0 0 0; }
+
+.modal-whats {
+  float: left;
+  width: 200px;
+  height: 50px;
+  border: 1px solid #fff;
+  margin-top: 4px;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer; }
+
+div#whatsappModal {
+  z-index: 99999; }
+
+.modal-whats i.icone-watt {
+  float: left;
+  display: block;
+  color: red !important;
+  width: 35px;
+  height: 35px;
+  margin-top: 2px; }
+.modal-whats span {
+  float: left;
+  display: block;
+  font-size: 15px;
+  position: absolute;
+  width: 140px;
+  line-height: 15px;
+  font-weight: bold;
+  margin-left: 42px;
+  margin-top: 12px;
+  color: #fff; }
+
+/* Responsive */
+@media (max-width: 991px) {
+  .store-footer {
+    padding: 0; }
+
+  .carNames.tamanho-grande {
+    width: 100%; }
+    .carNames.tamanho-grande ul {
+      display: block;
+      float: left; }
+
+  .lojas-footer {
+    min-height: 90px; }
+
+  .contact-deatils {
+    background: #000; }
+
+  body > div.main-container.clearfix.main-container-home > div.container > div > div > div > div > div.col-md-9 > div.car-list.clearfix > div > div > div > div.txtb.clearfix > div.price-seminovo > div {
+    margin-left: initial !important; } }
+@media (max-width: 767px) {
+  .header-bottom {
+    -webkit-box-shadow: 20em 0 0 0 #efefef, -20em 0 0 0 #efefef;
+    box-shadow: 20em 0 0 0 #6D081F, -20em 0 0 0 #6D081F; }
+
+  .car-banner2 .txtb, .flexslider, .footer-links .links-col2, .header-right, .slick-list {
+    overflow: visible; }
+
+  .header .phone-section {
+    float: left;
+    margin: 0 40px; }
+
+  .car-banner2 {
+    background: none;
+    background-color: rgba(0, 0, 0, 0.7); }
+
+  .navigation ul {
+    background: #FFCC33; }
+  .navigation li {
+    line-height: 58px;
+    margin-left: 0;
+    float: left;
+    border-bottom: 1px solid #fff;
+    width: 100%; }
+    .navigation li a {
+      color: #000; }
+      .navigation li a:hover {
+        background: #000;
+        color: #FFCC33; }
+    .navigation li span:after {
+      display: none; }
+    .navigation li:first-child, .navigation li:nth-child(5n + 5) {
+      margin-left: 0; }
+
+  .menu-baixo {
+    background: none;
+    border-top: initial; }
+
+  .btn-offer {
+    width: auto; }
+
+  .car-list-col .txtb {
+    text-align: center; }
+    .car-list-col .txtb p {
+      color: #000; }
+
+  .atab {
+    background: #fff;
+    padding: 8px;
+    font-size: 12px; } }
+@media (max-width: 400px) {
+  .wrap-img-car.img {
+    min-height: 200px; }
+
+  .feature_list .feature_item .feature_value .value_item.title {
+    width: 25%;
+    padding: 0; } }
+.hero-slider {
+  max-height: 470px; }
+
+.tab-nav li {
+  width: 20%; }
+
+.tab-content.well {
+  background-color: transparent;
+  border: none; }
+
+.header-mobile-contact {
+  background: #BEBEBE;
+  width: 100%;
+  height: 60px;
+  margin-bottom: 9px; }
+  .header-mobile-contact .header-mob-txt {
+    text-align: center;
+    padding-top: 3px;
+    line-height: 24px; }
+    .header-mobile-contact .header-mob-txt a {
+      color: #000; }
+
+.header-mob-whats {
+  display: flex;
+  justify-content: center; }
+
+.header-mobile-contact .icone-watt {
+  display: inline-block !important;
+  float: left;
+  position: static; }
+
+.txt-whats {
+  float: left;
+  padding: 3px 6px; }
+
+@media only screen and (max-width: 767px) {
+  .logo {
+    padding: 23px 0 73px !important;
+    width: auto !important;
+    float: none !important;
+    background: transparent !important; }
+
+  .hero-slider .flex-control-nav {
+    top: 90%; } }
+@media (max-width: 530px) {
+  .flexslider .slides > li, .hero-slider li {
+    background-size: contain !important; }
+
+  .div-hidden {
+    min-height: 173px !important; } }
+@media (max-width: 400px) {
+  .div-hidden {
+    min-height: 130px !important; } }
+/* PAGINA DE SERVI├âÔÇíOS */
+.services-box p {
+  color: #000;
+  font-size: 15px; }
+.services-box .box-serv {
+  margin-top: 40px;
+  margin-left: 0px;
+  margin-right: 4px; }
+  .services-box .box-serv h1 {
+    font-size: 21px;
+    font-weight: 600; }
+    .services-box .box-serv h1 span.destaque {
+      color: #FFCC33; }
+
+.box-serv .box-text {
+  background: #fff;
+  min-height: 165px;
+  padding: 24px 60px 0px 40px; }
+  .box-serv .box-text p {
+    font-size: 14px;
+    padding-top: 10px; }
+.box-serv .box-img {
+  background: #fff;
+  margin-left: 2px;
+  margin-right: -2px;
+  min-height: 165px;
+  overflow: hidden;
+  text-align: center;
+  padding: 0px; }
+  .box-serv .box-img img {
+    width: 100%;
+    height: auto;
+    text-align: center; }
+
+@media (max-width: 1219px) {
+  .box-serv .box-text, .box-serv .box-img {
+    min-height: 170px; } }
+@media (max-width: 1199px) {
+  .box-serv .box-text, .box-serv .box-img {
+    min-height: 210px; } }
+@media (max-width: 989px) {
+  .box-serv .box-img {
+    margin: 0px;
+    padding: 2px; }
+    .box-serv .box-img:last-child {
+      margin-bottom: 10px; } }
+@media (min-width: 1200px) {
+  .title-bar h3 {
+    max-width: 408px; } }
+/* PAG SEMI NOVO */
+.bloco-carro-seminovo .car-list-col {
+  min-height: auto !important;
+  background: #fff !important;
+  border: 2px solid #ddd; }
+
+.buttons-semi {
+  background: #666 !important;
+  min-height: 50px; }
+  .buttons-semi .btn-offer {
+    margin-bottom: 0px;
+    width: 170px;
+    height: 40px;
+    float: right;
+    margin: 5px;
+    line-height: 43px; }
+
+.bloco-carro-seminovo .car-list-col .txtb {
+  padding: 15px 0px 0px;
+  margin-bottom: -23px; }
+
+.buttons-semi .btn-offer.btn-saibamais {
+  background: #ccc;
+  color: #000;
+  width: 90px; }
+.buttons-semi .btn-offer.btn-enviar {
+  background: #fff;
+  color: #000; }
+
+.car-list-col .txtb h4 {
+  font-size: 25px !important;
+  color: #000; }
+.car-list-col .txtb p {
+  color: #000;
+  font-size: 13px; }
+
+.price-seminovo {
+  margin: 20px; }
+  .price-seminovo .price-varejo {
+    float: left;
+    margin-right: 70px; }
+
+.box-desc-semi {
+  overflow: auto; }
+
+p.desc-semi {
+  text-transform: none !important;
+  float: left;
+  margin-right: 30px; }
+  p.desc-semi i.fa.fa-circle {
+    font-size: 5px;
+    margin-right: 10px;
+    vertical-align: middle;
+    margin-left: 1px; }
+
+.price-seminovo p {
+  text-transform: none !important; }
+
+.price-varejo span.price {
+  color: #aaa !important;
+  font-weight: 100 !important;
+  font-size: 17px !important;
+  text-decoration: line-through; }
+
+.price-especial span.price {
+  color: #000 !important; }
+
+@media (max-width: 767px) {
+  .buttons-semi {
+    min-height: 150px; }
+    .buttons-semi .btn-offer {
+      width: calc(100% - 10px) !important; }
+
+  .price-seminovo {
+    margin-bottom: 27px; }
+
+  .car-list-col .imgb {
+    width: 100%;
+    margin-bottom: 10px; }
+
+  .gallery-content p br {
+    display: flex; }
+
+  .gallery-thumb .next, .gallery-thumb .prev {
+    display: flex; }
+
+  .pagination2 {
+    display: flex; }
+
+  .title-bar:before {
+    display: flex;
+    display: none; }
+
+  .box-desc-semi {
+    padding: 10px; } }
+@media (min-width: 768px) {
+  .img-semi {
+    max-width: 253px; } }
+.container-pagination {
+  border-top: 1px solid #CCCCCC;
+  padding-top: 20px; }
+
+.pagination2 {
+  width: 100%; }
+  .pagination2 li {
+    font-weight: normal; }
+    .pagination2 li a:hover, .pagination2 li.active a, .pagination2 li a, .pagination2 li:first-child {
+      color: #6D081F; }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .bloco-carro-seminovo .car-list-col .txtb {
+    margin-bottom: 0px; }
+
+  .buttons-semi {
+    min-height: 50px; } }
+.semiTel div, .store-block {
+  background: #FFCC33;
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center; }
+
+@media (max-width: 390px) {
+  .price-seminovo .price-varejo, .price-seminovo .price-especial {
+    width: 100%;
+    padding-bottom: 10px; } }
+/* FIM PAG SEMI NOVO */
+/* PAG INTERNA SEMINOVO */
+.semi-det-info table {
+  width: 100%;
+  background: #fff;
+  border: 1px solid #aaa;
+  margin-bottom: 50px; }
+.semi-det-info h4 {
+  color: #000;
+  font-weight: 100;
+  border-bottom: 0px;
+  margin: 20px 0px 15px 10px;
+  font-size: 18px;
+  text-align: left; }
+.semi-det-info table tr {
+  border-bottom: 1px solid #aaa;
+  font-size: 13px; }
+.semi-det-info table th {
+  font-weight: bold;
+  padding: 15px 10px; }
+.semi-det-info table td {
+  text-transform: uppercase;
+  text-align: right;
+  padding-right: 10px; }
+.semi-det-info table tr.tab-precovarejo {
+  border: 3px solid #666;
+  text-decoration: line-through; }
+.semi-det-info table tr.tab-precoespecial {
+  background: #666;
+  color: #fff; }
+
+.slider2 {
+  float: left;
+  margin-bottom: 22px; }
+
+.product-info2 {
+  float: right;
+  padding: 0px 0px 19px 25px;
+  color: black;
+  min-height: 334px; }
+
+.detalhe-semi .tab-nav2 li a {
+  border: 2px solid #666; }
+.detalhe-semi .tab-nav2 li.active a {
+  background: #666; }
+
+.tab-nav2 li:hover a {
+  background: #666; }
+
+.detalhe-semi .tab-content2 {
+  background: #fff;
+  margin: 0px 15px;
+  color: #000;
+  border: 1px solid #666;
+  padding: 15px; }
+
+ul.esp-semi {
+  margin-bottom: 10px; }
+  ul.esp-semi li {
+    list-style-type: disc;
+    margin-left: 20px; }
+
+.form-detalhe-semi {
+  background: #666; }
+  .form-detalhe-semi.fillform.inte.clearfix h3 {
+    background: #666;
+    color: #fff;
+    font-size: 17px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 66px;
+    text-transform: none; }
+  .form-detalhe-semi.fillform.inte.clearfix .fillform form {
+    padding: 0px 20px 20px 20px; }
+  .form-detalhe-semi.fillform.inte.clearfix strong {
+    padding: 0;
+    font-size: 22px;
+    margin: 0; }
+
+.icon-listsemi {
+  display: block;
+  float: left;
+  margin-right: 10px;
+  width: 26px;
+  height: 26px;
+  margin-top: -5px !Important; }
+
+.icon-economy {
+  background: url(../images/sprite-icon-cars.png) no-repeat 0 3px; }
+
+.icon-year {
+  background: url(../images/sprite-icon-cars.png) no-repeat -29px 0px; }
+
+.icon-km {
+  background: url(../images/sprite-icon-cars.png) no-repeat -56px 0px; }
+
+.icon-transmition {
+  background: url(../images/sprite-icon-cars.png) no-repeat -82px 3px; }
+
+a.envia-cel {
+  background: #FFCC33;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 13px; }
+
+@media (max-width: 991px) {
+  .box-esp-ace {
+    margin-bottom: 10px; }
+
+  .detalhe-semi .tab-content2 {
+    width: calc(100% - 15px); } }
+@media (max-width: 430px) {
+  .detalhe-semi .tab-nav2 li a {
+    padding-left: 3px;
+    text-align: center;
+    font-size: 14px; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .semi-form-detalhe {
+    top: -137px; } }
+@media (min-width: 1200px) {
+  .semi-form-detalhe {
+    top: -213px; } }
+/* FIM PAG INTERNA SEMINOVO */
+/*MODAL*/
+input.form-control.politica {
+  height: auto !important;
+  width: 10%;
+  display: inline-block;
+  vertical-align: sub; }
+
+.form-group p {
+  width: 90%;
+  display: inline-block;
+  font-size: 0.7em; }
+
+.politicaPrivacidade {
+  cursor: pointer; }
+  .politicaPrivacidade:hover {
+    text-decoration: underline; }
+
+/*Fim formul├â┬írio*/
+/*Politica de privacidade*/
+#tituloPrivacidade {
+  font-size: 28px; }
+
+#politicaPrivacidade p {
+  color: #000; }
+
+.bgModalPolitica {
+  background: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100%;
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 9999; }
+
+.modalPolitica {
+  background: #FFF none repeat scroll 0% 0%;
+  width: 90%;
+  height: 50%;
+  padding: 25px;
+  color: #000;
+  text-align: justify;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  margin-left: -45%;
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  overflow: scroll;
+  z-index: 99999; }
+
+div#fechaModal {
+  text-align: right;
+  color: #9E9E9E;
+  font-size: 45px;
+  margin-top: 15px;
+  position: absolute;
+  right: 8%;
+  top: 2%;
+  z-index: 999999;
+  cursor: pointer; }
+
+.modalPolitica p {
+  line-height: 22px; }
+
+p#tituloPrivacidade {
+  margin-bottom: 13px; }
+p.check {
+  margin-bottom: 0 !important; }
+
+/*NOVO CARRO KWID*/
+.blococarro {
+  background-color: white; }
+
+img.logokwid {
+  display: table;
+  margin: 0 auto;
+  margin-top: 70px;
+  margin-bottom: 10px; }
+
+.cadastrebloco {
+  float: right;
+  width: 28%; }
+  .cadastrebloco p {
+    color: #000;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    margin-bottom: 18px; }
+
+button.ancoraform {
+  text-transform: uppercase;
+  color: #ff6d00;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 8px 20px;
+  border: 5px solid #ff6d00;
+  display: inline-block;
+  background-color: white; }
+
+img.kwidcar {
+  display: table;
+  margin: 0 auto; }
+
+.blococarro {
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  background-position: 0px 486px !important; }
+
+@media (max-width: 769px) {
+  .cadastrebloco {
+    float: none;
+    width: 100%; }
+
+  .iframedesk {
+    display: none; }
+
+  .iframemobile {
+    display: table;
+    margin: 0 auto;
+    padding-top: 20px; }
+
+  .formulariokwid h1 {
+    font-size: 18px !important; }
+  .formulariokwid form input[type="submit"] {
+    width: 100% !important; } }
+.formulariokwid {
+  margin-bottom: 10%; }
+  .formulariokwid form input {
+    background-color: black;
+    border: 2px solid #9e9e9e; }
+    .formulariokwid form input[type="submit"] {
+      float: right;
+      width: 26%;
+      background: linear-gradient(#ff465b, #d81539);
+      margin-top: 20px;
+      padding-top: 0 !important; }
+  .formulariokwid h1 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 38px; }
+  .formulariokwid form select {
+    background-color: black !important;
+    border: 2px solid #9e9e9e; }
+
+@media (min-width: 769px) {
+  .arrowbg {
+    min-height: 20px !important;
+    height: 256px; }
+
+  .iframemobile {
+    display: none; } }
+i.fa.fa-angle-left {
+  font-size: 60px;
+  padding-left: 10px; }
+i.fa.fa-angle-right {
+  font-size: 60px;
+  padding-right: 10px; }
+
+ul.flex-direction-nav {
+  position: absolute;
+  top: 29%;
+  height: 300px;
+  width: 100%; }
+
+a.flex-next.img-circle {
+  position: absolute;
+  top: 0;
+  right: 5px; }
+
+.phone-section i.fa.fa-angle-right, .phone-section i.fa.fa-angle-left {
+  display: none; }
+
+.car-list-col.clearfix.divh {
+  height: 420px;
+  border-bottom: 3px solid #00336f; }
+
+a.btn-offer.formchangeoferta {
+  margin-left: 22px;
+  width: 80%;
+  background: rgba(0, 0, 0, 0.75);
+  height: 36px;
+  padding: 9px 20px 9px 20px;
+  position: relative;
+  top: 4px; }
+
+.imgb.imgdiv {
+  margin-bottom: 5px; }
+
+.info {
+  text-align: center; }
+  .info strong {
+    font-weight: 900; }
+
+.item .pagamento p {
+  margin: 0px;
+  text-transform: capitalize;
+  font-size: 0.95em;
+  color: #666666;
+  font-style: italic;
+  line-height: 25px; }
+
+h3.promo b {
+  color: #aaa;
+  font-size: 16px; }
+
+v.valor {
+  color: #aaa;
+  font-size: 1.9em;
+  font-weight: 700; }
+
+h3.promo {
+  margin-bottom: 50px;
+  margin-top: 30px; }
+
+.box-carros {
+  max-height: 450px; }
+
+/*h3.promo {
+   font-size: 1.9em;
+    font-weight: 700;
+    color: #aaa;
+}
+a.btn-offer.formchangeoferta {
+    display: initial;
+}*/
+.car-list-col .imgb {
+  min-height: auto;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 23px; }
+
+.header-mobile-contact {
+  height: 104px; }
+
+.consorcio-1 .single-consortium .info {
+  padding: 3px 0px 0px 0px; }
+  .consorcio-1 .single-consortium .info .top.promo {
+    margin-bottom: 45px; }
+
+@media (max-width: 992px) {
+  .consorcio-1 .single-consortium .info .top.promo {
+    margin-bottom: 0px;
+    margin-bottom: -24px; } }
+.hero-slider .flex-control-nav {
+  bottom: 26px; }
+
+i.fa.fa-angle-right {
+  padding-right: 30px; }
+i.fa.fa-angle-left {
+  padding-left: 30px; }
+
+.hero-slider li {
+  min-height: 420px; }
+
+.sub-titulo-pecas {
+  text-transform: uppercase;
+  font-size: 15px;
+  color: #FFCC33;
+  margin-bottom: 15px;
+  display: block; }
+
+.itembox1, .itembox2 {
+  border: 1px solid #cbcbcb;
+  padding: 30px;
+  margin-bottom: 20px; }
+
+.fillform h3.two.tit {
+  padding-top: 22px; }
+
+.car-list-col .imgb {
+  margin-right: 20px; }
+
+/* SLICK */
+.slick-dots {
+  position: absolute;
+  bottom: -14px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center; }
+  .slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 4px;
+    height: 4px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer; }
+    .slick-dots li button {
+      font-size: 0;
+      line-height: 0;
+      display: block;
+      width: 4px;
+      height: 4px;
+      padding: 4px;
+      cursor: pointer;
+      color: transparent;
+      border-radius: 13px;
+      border: 0;
+      outline: none;
+      background: #fff; }
+      .slick-dots li button:hover, .slick-dots li button:focus {
+        outline: none; }
+      .slick-dots li button:hover:before, .slick-dots li button:focus:before {
+        opacity: 1; }
+      .slick-dots li button:before {
+        font-family: 'slick';
+        font-size: 6px;
+        line-height: 20px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 20px;
+        height: 20px;
+        content: '├óÔé¼┬ó';
+        text-align: center;
+        opacity: .25;
+        color: black;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale; }
+    .slick-dots li.slick-active button:before {
+      opacity: .75;
+      color: black; }
+
+/* fim slick */
+@media (max-width: 767px) {
+  .header .phone-section {
+    width: 100%;
+    overflow: hidden;
+    margin: 0; }
+
+  .header-bottom {
+    box-shadow: 20em 0 0 0 #FFCC33, -20em 0 0 0 #FFCC33; } }
+header {
+  background: url(https://azzurrarenault.com.br/themes/azzurra-renault/assets/images/bg_header.png) !important; }
+
+.navigation {
+  background: #fff;
+  margin-bottom: 20px; }
+
+body {
+  background: #efefef; }
+
+.fora_icones_contato {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .fora_icones_contato .icones_redes {
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #fc3;
+    margin: 1%;
+    border-radius: 50%;
+    height: 45px;
+    outline: none;
+    color: #fc3 !important; }
+    .fora_icones_contato .icones_redes a {
+      color: #fc3 !important;
+      width: auto;
+      height: auto; }
+
+.icones_redes:hover {
+  color: #fff !important;
+  border: 1px solid #fff; }
+
+.fab {
+  font-size: 20px; }
+
+.car-banner2 .txtb p {
+  line-height: 24px !important;
+  font-size: 16px !important; }
+
+.fillform h3 {
+  font-size: 19px; }
+
+@media (max-width: 767px) {
+  header, .header {
+    background: #fff !important; }
+
+  .fillform form {
+    padding: 13px 20px 20px 20px;
+    /* position: relative; */
+    position: relative;
+    z-index: 1; }
+  .fillform h3 {
+    margin-top: 0;
+    position: relative;
+    z-index: 1;
+    background: url(../img/icon-form.jpg) no-repeat left top white;
+    line-height: 72px;
+    display: flex !important;
+    color: #232323;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 800;
+    justify-content: flex-end !important;
+    align-items: center !important; }
+
+  .social {
+    border-bottom: none; } }
+
+/*# sourceMappingURL=custom.css.map */
